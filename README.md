@@ -25,23 +25,22 @@ pip install -r ./requirements.txt
 ```
 
 ## Dataset preparation
-Download [DexYCB dataset](https://dex-ycb.github.io/).
-Download the [annotations](https://drive.google.com/drive/folders/1YAF1jAsGi2aWkTml1tFV2y39aSmIYpde?usp=sharing).
+Download the [DexYCB dataset](https://dex-ycb.github.io/) and the [annotations](https://drive.google.com/drive/folders/1YAF1jAsGi2aWkTml1tFV2y39aSmIYpde?usp=sharing).
 
 ## Training & Evaluation
-[Here](https://drive.google.com/file/d/1sl0r62C8c1eYlFKyFGk-CTW2hoXFvqIa/view?usp=sharing) is our pre-trained model on DexYCB. 
+Download is our [pre-trained model](https://drive.google.com/file/d/1sl0r62C8c1eYlFKyFGk-CTW2hoXFvqIa/view?usp=sharing) on DexYCB. 
 
 ```bash
 python train.py
 ```
-you would get following output:
+you would get the following output:
 ```bash
 
 [mean_Error 6.927]
 [PA_mean_Error 4.790]
 ```
 
-Comaprasion on HO3D can be seen in [here](https://codalab.lisn.upsaclay.fr/competitions/4318#results).
+Comparison on HO3D can be seen in [here](https://codalab.lisn.upsaclay.fr/competitions/4318#results).
 
 
 
