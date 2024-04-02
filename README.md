@@ -8,7 +8,7 @@
   <a href="https://doi.org/10.1609/aaai.v38i4.28166" target='_blank'>[Paper Page]</a> 
 </h4>
 
-
+</div>
 
 <div>
 
@@ -36,6 +36,7 @@ python train.py
 ```
 you would get following output:
 ```bash
+
 [mean_Error 6.927]
 [PA_mean_Error 4.790]
 ```
