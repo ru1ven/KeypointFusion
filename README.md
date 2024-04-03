@@ -28,7 +28,7 @@ pip install -r ./requirements.txt
 Download the [DexYCB dataset](https://dex-ycb.github.io/) and the [annotations](https://drive.google.com/drive/folders/1YAF1jAsGi2aWkTml1tFV2y39aSmIYpde?usp=sharing).
 
 ## Training & Evaluation
-Download is our [pre-trained model](https://drive.google.com/file/d/1sl0r62C8c1eYlFKyFGk-CTW2hoXFvqIa/view?usp=sharing) on DexYCB. 
+Download our [pre-trained model](https://drive.google.com/file/d/1sl0r62C8c1eYlFKyFGk-CTW2hoXFvqIa/view?usp=sharing) on DexYCB s0. 
 
 ```bash
 python train.py
