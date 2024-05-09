@@ -42,7 +42,18 @@ you would get the following output:
 
 Comparison on HO3D can be seen in [here](https://codalab.lisn.upsaclay.fr/competitions/4318#results).
 
+## Running in the wild
 
+We update a [demo](https://github.com/ru1ven/KeypointFusion/blob/main/demo_RGBD.py) for running our method in real-world scenes.
+
+<div align="center">
+<img src="/visualization/box.png" width="40%"/>
+<img src="/visualization/box_poseRGB.png" width="23%"/>
+<img src="/visualization/box_poseD.png" width="23%"/>
+</div>
+<div align="center">
+<strong> The results of KeypointFusion on in-the-wild images. </strong>
+</div>
 
 ## BibTeX
 
